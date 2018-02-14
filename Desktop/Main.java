@@ -32,17 +32,6 @@ public class Main {
         }
         System.out.println("Your number is " + total + " in decimal");
     }
-//    public static long math(String input){
-//        int i = 0;
-//        int total = 0;
-//        int power = 0;
-//
-//        while (i < input.length()){
-//            int value = 0;
-//            char hex;
-//            int hexValue = 0;
-//            hex = input.charAt(i);
-//
-//            i++;
-//        }
+    //Adding a coment for Git
+
     }
